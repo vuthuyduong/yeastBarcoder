@@ -5,11 +5,13 @@ git clone https://github.com/vuthuyduong/yeastBarcoder.git
 
 cd yeastBarcoder
 
-<i>download dnabarcoder and install dnabarcoder dependencies following the instructions available at </i> [https://github.com/vuthuyduong/dnabarcoder](https://github.com/vuthuyduong/dnabarcoder) 
+<i>download dnabarcoder</i>
 
 git clone https://github.com/vuthuyduong/dnabarcoder.git
 
-\# add excutable modes for all the .py in dnabarcoder if needed:
+<i>install dnabarcoder dependencies following the instructions available at </i> [https://github.com/vuthuyduong/dnabarcoder](https://github.com/vuthuyduong/dnabarcoder) 
+
+<i>add excutable modes for all the .py in dnabarcoder if needed: </i>
 
 find . -type f -name "*.py" -exec chmod +x {} \; -print
 
