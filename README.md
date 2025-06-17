@@ -36,5 +36,22 @@ cd data
 
 <i>Perform [Dada2](https://benjjneb.github.io/dada2/)  on the raw data to obtain asvnochim.fasta file </i>
 
-<i>Classify asvnochim.fasta:</i>
+<i>Classify asvnochim.fasta against yeastITS2:</i>
+
+../dnabarcoder/dnabarcoder.py search -i asvnochim.fasta -r yeastITS2.fasta
+
+../dnabarcoder/dnabarcoder.py classify -i dnabarcoder/asvnochim.yeastITS2_BLAST.bestmatch -c yeastITS2.classification -cutoffs yeastITS2.cutoffs.best.json 
+
+<i>Classify asvnochim.fasta against filfungalITS2:</i>
+
+../dnabarcoder/dnabarcoder.py search -i asvnochim.fasta -r filfungalITS2.fasta
+
+../dnabarcoder/dnabarcoder.py classify -i dnabarcoder/asvnochim.filfungalITS2_BLAST.bestmatch -c filfungalITS2.classification -cutoffs filfungalITS2.cutoffs.best.json 
+
+<i>Merge classification outputs:</i>
+
+../dnabarcoder/aidscripts/mergeClassifications.py -i dnabarcoder/asvnochim.yeastITS2_BLAST.classification,dnabarcoder/asvnochim.moldITS2_BLAST.classification -o dnabarcoder/asvnochim.merged.classification
+
+
+
 
