@@ -1,5 +1,6 @@
 # yeastBarcoder
 
+<b> Setting up the working environment </b>
 
 git clone https://github.com/vuthuyduong/yeastBarcoder.git
 
