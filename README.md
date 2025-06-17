@@ -17,6 +17,8 @@ find . -type f -name "*.py" -exec chmod +x {} \; -print
 
 cd data
 
+<b> Calculate similarity cutoffs for different yeast clades for different biomarkers </b>
+
 <i>All the cut-off files (yeastITS.cutoffs.best.json, yeastLSU.cutoffs.best.json, yeastITS1.cutoffs.best.json, yeastITS2.cutoffs.best.json, etc.) are already available in the </i> data <i> folder. However, if we want to recalculate these files and all the figures made for the yeastBarcoder's manuscript, please perform the following bash files:</i>
 
 ./yeastITS.sh
@@ -26,4 +28,6 @@ cd data
 ./yeastITS1.sh
 
 ./yeastITS2.sh
+
+<b> Classify the gut microbiome sample </b>
 
