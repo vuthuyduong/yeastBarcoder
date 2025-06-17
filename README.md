@@ -53,5 +53,12 @@ cd data
 ../dnabarcoder/aidscripts/mergeClassifications.py -i dnabarcoder/asvnochim.yeastITS2_BLAST.classification,dnabarcoder/asvnochim.moldITS2_BLAST.classification -o dnabarcoder/asvnochim.merged.classification
 
 
+<i>Alternatively, we can also classify asvnochim.fasta against CBSITS2:</i>
+
+../dnabarcoder/dnabarcoder.py search -i asvnochim.fasta -r CBSITS2.fasta
+
+../dnabarcoder/dnabarcoder.py classify -i dnabarcoder/asvnochim.CBSITS2_BLAST.bestmatch -c CBSITS2.classification -cutoffs CBSITS2.cutoffs.best.json 
+
+
 
 
