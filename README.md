@@ -31,5 +31,10 @@ cd data
 ./yeastITS2.sh
 
 <b> Classify the gut microbiome sample </b>
-<i>Download the rawdata of the human gut microbiome samples from the paper [The gut mycobiome of the Human Microbiome Project healthy cohort](10.1186/s40168-017-0373-4)</i>
+
+<i>Download the raw data of the human gut microbiome samples from the paper [The gut mycobiome of the Human Microbiome Project healthy cohort](10.1186/s40168-017-0373-4)</i>
+
+<i>Perform [Dada2](https://benjjneb.github.io/dada2/)  on the raw data to obtain asvnochim.fasta file </i>
+
+<i>Classify asvnochim.fasta:</i>
 
