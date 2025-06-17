@@ -12,7 +12,7 @@ git clone https://github.com/vuthuyduong/dnabarcoder.git
 
 <i>install dnabarcoder dependencies following the instructions available at </i> [https://github.com/vuthuyduong/dnabarcoder](https://github.com/vuthuyduong/dnabarcoder) 
 
-<i>add excutable modes for all the .py in dnabarcoder if needed: </i>
+<i>Make all .py files in </i> dnabarcoder <i>executable if needed: </i>
 
 find . -type f -name "*.py" -exec chmod +x {} \; -print
 
