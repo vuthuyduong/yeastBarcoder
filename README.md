@@ -14,7 +14,7 @@ git clone https://github.com/vuthuyduong/dnabarcoder.git
 
 <i>Make all .py files in </i> dnabarcoder <i>executable if needed: </i>
 
-find . -type f -name "*.py" -exec chmod +x {} \; -print
+find . -type f -name "*.py" -exec chmod +x {} \\; -print
 
 cd data
 
