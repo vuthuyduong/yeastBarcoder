@@ -29,8 +29,8 @@
       "original min alignment length": 400
     },
     "Barnettozyma": {
-      "cut-off": 0.993,
-      "confidence": 0.9392,
+      "cut-off": 0.949,
+      "confidence": 1.0,
       "sequence number": 49,
       "group number": 9,
       "min alignment length": 400,
@@ -39,7 +39,7 @@
       "max proportion": 0.4898,
       "original cut-off": 0.949,
       "original confidence": 1.0,
-      "dataset with max confidence": "Phaffomycetales",
+      "dataset with max confidence": "Barnettozyma",
       "original min alignment length": 400
     },
     "Blastobotrys": {
@@ -127,8 +127,8 @@
       "original min alignment length": 400
     },
     "Cystofilobasidium": {
-      "cut-off": 0.993,
-      "confidence": 0.9516,
+      "cut-off": 0.992,
+      "confidence": 1.0,
       "sequence number": 55,
       "group number": 8,
       "min alignment length": 400,
@@ -137,21 +137,7 @@
       "max proportion": 0.4,
       "original cut-off": 0.992,
       "original confidence": 1.0,
-      "dataset with max confidence": "Cystofilobasidiales",
-      "original min alignment length": 400
-    },
-    "Debaryomyces": {
-      "cut-off": 0.995,
-      "confidence": 0.9406,
-      "sequence number": 182,
-      "group number": 8,
-      "min alignment length": 400,
-      "fasta filename": "dnabarcoder/yeastLSU.species.diff.fasta",
-      "classification filename": "yeastLSU.classification",
-      "max proportion": 0.8681,
-      "original cut-off": 0.998,
-      "original confidence": 0.9464,
-      "dataset with max confidence": "Debaryomycetaceae",
+      "dataset with max confidence": "Cystofilobasidium",
       "original min alignment length": 400
     },
     "Derxomyces": {
@@ -197,8 +183,8 @@
       "original min alignment length": 400
     },
     "Galactomyces": {
-      "cut-off": 0.991,
-      "confidence": 0.94,
+      "cut-off": 0.986,
+      "confidence": 0.9735,
       "sequence number": 54,
       "group number": 6,
       "min alignment length": 400,
@@ -207,7 +193,7 @@
       "max proportion": 0.5741,
       "original cut-off": 0.986,
       "original confidence": 0.9735,
-      "dataset with max confidence": "Dipodascales",
+      "dataset with max confidence": "Galactomyces",
       "original min alignment length": 400
     },
     "Hanseniaspora": {
@@ -225,8 +211,8 @@
       "original min alignment length": 400
     },
     "Hyphopichia": {
-      "cut-off": 0.995,
-      "confidence": 0.9406,
+      "cut-off": 0.989,
+      "confidence": 0.9875,
       "sequence number": 41,
       "group number": 8,
       "min alignment length": 400,
@@ -235,7 +221,7 @@
       "max proportion": 0.439,
       "original cut-off": 0.989,
       "original confidence": 0.9875,
-      "dataset with max confidence": "Debaryomycetaceae",
+      "dataset with max confidence": "Hyphopichia",
       "original min alignment length": 400
     },
     "Kluyveromyces": {
@@ -320,20 +306,6 @@
       "original cut-off": 0.995,
       "original confidence": 0.8608,
       "dataset with max confidence": "Serinales",
-      "original min alignment length": 400
-    },
-    "Meyerozyma": {
-      "cut-off": 0.995,
-      "confidence": 0.9406,
-      "sequence number": 90,
-      "group number": 5,
-      "min alignment length": 400,
-      "fasta filename": "dnabarcoder/yeastLSU.species.diff.fasta",
-      "classification filename": "yeastLSU.classification",
-      "max proportion": 0.8889,
-      "original cut-off": 0.994,
-      "original confidence": 0.9713,
-      "dataset with max confidence": "Debaryomycetaceae",
       "original min alignment length": 400
     },
     "Naganishia": {
@@ -449,8 +421,8 @@
       "original min alignment length": 400
     },
     "Schwanniomyces": {
-      "cut-off": 0.995,
-      "confidence": 0.9406,
+      "cut-off": 0.996,
+      "confidence": 0.9564,
       "sequence number": 51,
       "group number": 6,
       "min alignment length": 400,
@@ -459,12 +431,12 @@
       "max proportion": 0.3529,
       "original cut-off": 0.996,
       "original confidence": 0.9564,
-      "dataset with max confidence": "Debaryomycetaceae",
+      "dataset with max confidence": "Schwanniomyces",
       "original min alignment length": 400
     },
     "Solicoccozyma": {
-      "cut-off": 0.996,
-      "confidence": 0.929,
+      "cut-off": 0.994,
+      "confidence": 0.9591,
       "sequence number": 72,
       "group number": 6,
       "min alignment length": 400,
@@ -473,7 +445,7 @@
       "max proportion": 0.5833,
       "original cut-off": 0.994,
       "original confidence": 0.9591,
-      "dataset with max confidence": "Basidiomycota",
+      "dataset with max confidence": "Solicoccozyma",
       "original min alignment length": 400
     },
     "Sporobolomyces": {
@@ -588,20 +560,6 @@
       "dataset with max confidence": "Basidiomycota",
       "original min alignment length": 400
     },
-    "Vanrija": {
-      "cut-off": 0.996,
-      "confidence": 0.929,
-      "sequence number": 39,
-      "group number": 6,
-      "min alignment length": 400,
-      "fasta filename": "dnabarcoder/yeastLSU.species.diff.fasta",
-      "classification filename": "yeastLSU.classification",
-      "max proportion": 0.8462,
-      "original cut-off": 0.993,
-      "original confidence": 0.9829,
-      "dataset with max confidence": "Basidiomycota",
-      "original min alignment length": 400
-    },
     "Vishniacozyma": {
       "cut-off": 0.993,
       "confidence": 0.9336,
@@ -673,8 +631,8 @@
       "original min alignment length": 400
     },
     "Zygosaccharomyces": {
-      "cut-off": 0.996,
-      "confidence": 0.9209,
+      "cut-off": 0.982,
+      "confidence": 0.972,
       "sequence number": 108,
       "group number": 8,
       "min alignment length": 400,
@@ -683,7 +641,7 @@
       "max proportion": 0.5833,
       "original cut-off": 0.982,
       "original confidence": 0.972,
-      "dataset with max confidence": "Saccharomycetales",
+      "dataset with max confidence": "Zygosaccharomyces",
       "original min alignment length": 400
     },
     "Debaryomycetaceae": {
@@ -824,20 +782,6 @@
       "original cut-off": 0.994,
       "original confidence": 0.9324,
       "dataset with max confidence": "Bulleribasidiaceae",
-      "original min alignment length": 400
-    },
-    "Cryptococcaceae": {
-      "cut-off": 0.989,
-      "confidence": 0.9864,
-      "sequence number": 251,
-      "group number": 19,
-      "min alignment length": 400,
-      "fasta filename": "dnabarcoder/yeastLSU.species.diff.fasta",
-      "classification filename": "yeastLSU.classification",
-      "max proportion": 0.8884,
-      "original cut-off": 0.989,
-      "original confidence": 0.9864,
-      "dataset with max confidence": "Cryptococcaceae",
       "original min alignment length": 400
     },
     "Cystobasidiaceae": {
@@ -1246,20 +1190,6 @@
       "dataset with max confidence": "All",
       "original min alignment length": 400
     },
-    "Leucosporidiales": {
-      "cut-off": 0.996,
-      "confidence": 0.9632,
-      "sequence number": 86,
-      "group number": 7,
-      "min alignment length": 400,
-      "fasta filename": "dnabarcoder/yeastLSU.species.diff.fasta",
-      "classification filename": "yeastLSU.classification",
-      "max proportion": 0.8023,
-      "original cut-off": 0.997,
-      "original confidence": 0.9812,
-      "dataset with max confidence": "Microbotryomycetes",
-      "original min alignment length": 400
-    },
     "Malasseziales": {
       "cut-off": 0.991,
       "confidence": 0.9893,
@@ -1514,20 +1444,6 @@
       "dataset with max confidence": "All",
       "original min alignment length": 400
     },
-    "Sporidiobolaceae": {
-      "cut-off": 0.973,
-      "confidence": 0.8476,
-      "sequence number": 527,
-      "group number": 5,
-      "min alignment length": 400,
-      "fasta filename": "yeastLSU.genus.fasta",
-      "classification filename": "yeastLSU.classification",
-      "max proportion": 0.7154,
-      "original cut-off": 0.964,
-      "original confidence": 0.8334,
-      "dataset with max confidence": "Basidiomycota",
-      "original min alignment length": 400
-    },
     "Saccharomycetaceae": {
       "cut-off": 0.983,
       "confidence": 0.9083,
@@ -1585,8 +1501,8 @@
       "original min alignment length": 400
     },
     "Cystofilobasidiaceae": {
-      "cut-off": 0.969,
-      "confidence": 0.9247,
+      "cut-off": 0.953,
+      "confidence": 1.0,
       "sequence number": 99,
       "group number": 5,
       "min alignment length": 400,
@@ -1595,12 +1511,12 @@
       "max proportion": 0.5556,
       "original cut-off": 0.953,
       "original confidence": 1.0,
-      "dataset with max confidence": "Tremellomycetes",
+      "dataset with max confidence": "Cystofilobasidiaceae",
       "original min alignment length": 400
     },
     "Trichosporonaceae": {
-      "cut-off": 0.969,
-      "confidence": 0.9247,
+      "cut-off": 0.967,
+      "confidence": 0.9419,
       "sequence number": 312,
       "group number": 6,
       "min alignment length": 400,
@@ -1609,7 +1525,7 @@
       "max proportion": 0.3494,
       "original cut-off": 0.967,
       "original confidence": 0.9412,
-      "dataset with max confidence": "Tremellomycetes",
+      "dataset with max confidence": "Trichosporonales",
       "original min alignment length": 400
     },
     "Metschnikowiaceae": {
@@ -1627,8 +1543,8 @@
       "original min alignment length": 400
     },
     "Dipodascaceae": {
-      "cut-off": 0.932,
-      "confidence": 0.7512,
+      "cut-off": 0.949,
+      "confidence": 0.8974,
       "sequence number": 103,
       "group number": 5,
       "min alignment length": 400,
@@ -1637,35 +1553,7 @@
       "max proportion": 0.5243,
       "original cut-off": 0.949,
       "original confidence": 0.8974,
-      "dataset with max confidence": "Dipodascales",
-      "original min alignment length": 400
-    },
-    "Lipomycetaceae": {
-      "cut-off": 0.976,
-      "confidence": 0.6915,
-      "sequence number": 88,
-      "group number": 5,
-      "min alignment length": 400,
-      "fasta filename": "yeastLSU.genus.fasta",
-      "classification filename": "yeastLSU.classification",
-      "max proportion": 0.8068,
-      "original cut-off": 0.965,
-      "original confidence": 0.8853,
-      "dataset with max confidence": "All",
-      "original min alignment length": 400
-    },
-    "Sporidiobolales": {
-      "cut-off": 0.973,
-      "confidence": 0.8476,
-      "sequence number": 527,
-      "group number": 5,
-      "min alignment length": 400,
-      "fasta filename": "yeastLSU.genus.fasta",
-      "classification filename": "yeastLSU.classification",
-      "max proportion": 0.7154,
-      "original cut-off": 0.964,
-      "original confidence": 0.8334,
-      "dataset with max confidence": "Basidiomycota",
+      "dataset with max confidence": "Dipodascaceae",
       "original min alignment length": 400
     },
     "Saccharomycetales": {
@@ -1753,8 +1641,8 @@
       "original min alignment length": 400
     },
     "Cystofilobasidiales": {
-      "cut-off": 0.969,
-      "confidence": 0.9247,
+      "cut-off": 0.953,
+      "confidence": 0.9912,
       "sequence number": 164,
       "group number": 8,
       "min alignment length": 400,
@@ -1763,12 +1651,12 @@
       "max proportion": 0.3354,
       "original cut-off": 0.953,
       "original confidence": 0.9912,
-      "dataset with max confidence": "Tremellomycetes",
+      "dataset with max confidence": "Cystofilobasidiales",
       "original min alignment length": 400
     },
     "Filobasidiales": {
-      "cut-off": 0.969,
-      "confidence": 0.9247,
+      "cut-off": 0.972,
+      "confidence": 0.9534,
       "sequence number": 213,
       "group number": 6,
       "min alignment length": 400,
@@ -1777,12 +1665,12 @@
       "max proportion": 0.338,
       "original cut-off": 0.972,
       "original confidence": 0.9534,
-      "dataset with max confidence": "Tremellomycetes",
+      "dataset with max confidence": "Filobasidiales",
       "original min alignment length": 400
     },
     "Trichosporonales": {
-      "cut-off": 0.969,
-      "confidence": 0.9247,
+      "cut-off": 0.967,
+      "confidence": 0.9419,
       "sequence number": 316,
       "group number": 7,
       "min alignment length": 400,
@@ -1791,7 +1679,7 @@
       "max proportion": 0.3449,
       "original cut-off": 0.967,
       "original confidence": 0.9419,
-      "dataset with max confidence": "Tremellomycetes",
+      "dataset with max confidence": "Trichosporonales",
       "original min alignment length": 400
     },
     "Phaffomycetales": {
@@ -1820,20 +1708,6 @@
       "original cut-off": 0.915,
       "original confidence": 0.9297,
       "dataset with max confidence": "Agaricostilbales",
-      "original min alignment length": 400
-    },
-    "Lipomycetales": {
-      "cut-off": 0.976,
-      "confidence": 0.6915,
-      "sequence number": 88,
-      "group number": 5,
-      "min alignment length": 400,
-      "fasta filename": "yeastLSU.genus.fasta",
-      "classification filename": "yeastLSU.classification",
-      "max proportion": 0.8068,
-      "original cut-off": 0.965,
-      "original confidence": 0.8853,
-      "dataset with max confidence": "All",
       "original min alignment length": 400
     },
     "Microbotryomycetes": {
@@ -1935,8 +1809,8 @@
       "original min alignment length": 400
     },
     "Cystobasidiomycetes": {
-      "cut-off": 0.973,
-      "confidence": 0.8476,
+      "cut-off": 0.964,
+      "confidence": 0.9712,
       "sequence number": 91,
       "group number": 9,
       "min alignment length": 400,
@@ -1945,21 +1819,7 @@
       "max proportion": 0.5495,
       "original cut-off": 0.964,
       "original confidence": 0.9712,
-      "dataset with max confidence": "Basidiomycota",
-      "original min alignment length": 400
-    },
-    "Lipomycetes": {
-      "cut-off": 0.976,
-      "confidence": 0.6915,
-      "sequence number": 88,
-      "group number": 5,
-      "min alignment length": 400,
-      "fasta filename": "yeastLSU.genus.fasta",
-      "classification filename": "yeastLSU.classification",
-      "max proportion": 0.8068,
-      "original cut-off": 0.965,
-      "original confidence": 0.8853,
-      "dataset with max confidence": "All",
+      "dataset with max confidence": "Cystobasidiomycetes",
       "original min alignment length": 400
     },
     "Basidiomycota": {
@@ -2021,8 +1881,8 @@
       "original min alignment length": 400
     },
     "Agaricostilbales": {
-      "cut-off": 0.959,
-      "confidence": 0.8247,
+      "cut-off": 0.899,
+      "confidence": 0.9132,
       "sequence number": 42,
       "group number": 5,
       "min alignment length": 400,
@@ -2031,26 +1891,12 @@
       "max proportion": 0.4286,
       "original cut-off": 0.899,
       "original confidence": 0.9132,
-      "dataset with max confidence": "Basidiomycota",
-      "original min alignment length": 400
-    },
-    "Microbotryomycetes": {
-      "cut-off": 0.959,
-      "confidence": 0.8247,
-      "sequence number": 597,
-      "group number": 8,
-      "min alignment length": 400,
-      "fasta filename": "yeastLSU.family.fasta",
-      "classification filename": "yeastLSU.classification",
-      "max proportion": 0.8827,
-      "original cut-off": 0.963,
-      "original confidence": 0.8453,
-      "dataset with max confidence": "Basidiomycota",
+      "dataset with max confidence": "Agaricostilbales",
       "original min alignment length": 400
     },
     "Saccharomycetes": {
-      "cut-off": 0.958,
-      "confidence": 0.7213,
+      "cut-off": 0.945,
+      "confidence": 0.8269,
       "sequence number": 1826,
       "group number": 7,
       "min alignment length": 400,
@@ -2059,7 +1905,7 @@
       "max proportion": 0.695,
       "original cut-off": 0.945,
       "original confidence": 0.8269,
-      "dataset with max confidence": "All",
+      "dataset with max confidence": "Saccharomycetes",
       "original min alignment length": 400
     },
     "Tremellomycetes": {
@@ -2077,8 +1923,8 @@
       "original min alignment length": 400
     },
     "Agaricostilbomycetes": {
-      "cut-off": 0.959,
-      "confidence": 0.8247,
+      "cut-off": 0.899,
+      "confidence": 0.9132,
       "sequence number": 42,
       "group number": 5,
       "min alignment length": 400,
@@ -2087,7 +1933,7 @@
       "max proportion": 0.4286,
       "original cut-off": 0.899,
       "original confidence": 0.9132,
-      "dataset with max confidence": "Basidiomycota",
+      "dataset with max confidence": "Agaricostilbomycetes",
       "original min alignment length": 400
     },
     "Basidiomycota": {
@@ -2134,23 +1980,9 @@
       "dataset with max confidence": "All",
       "original min alignment length": 400
     },
-    "Microbotryomycetes": {
-      "cut-off": 0.951,
-      "confidence": 0.7546,
-      "sequence number": 669,
-      "group number": 7,
-      "min alignment length": 400,
-      "fasta filename": "yeastLSU.order.fasta",
-      "classification filename": "yeastLSU.classification",
-      "max proportion": 0.7877,
-      "original cut-off": 0.961,
-      "original confidence": 0.828,
-      "dataset with max confidence": "Basidiomycota",
-      "original min alignment length": 400
-    },
     "Tremellomycetes": {
       "cut-off": 0.951,
-      "confidence": 0.7546,
+      "confidence": 0.8051,
       "sequence number": 1684,
       "group number": 5,
       "min alignment length": 400,
@@ -2159,7 +1991,7 @@
       "max proportion": 0.576,
       "original cut-off": 0.951,
       "original confidence": 0.8051,
-      "dataset with max confidence": "Basidiomycota",
+      "dataset with max confidence": "Tremellomycetes",
       "original min alignment length": 400
     },
     "Basidiomycota": {
@@ -2207,8 +2039,8 @@
       "original min alignment length": 400
     },
     "Basidiomycota": {
-      "cut-off": 0.935,
-      "confidence": 0.6989,
+      "cut-off": 0.926,
+      "confidence": 0.9757,
       "sequence number": 2725,
       "group number": 9,
       "min alignment length": 400,
@@ -2217,7 +2049,7 @@
       "max proportion": 0.618,
       "original cut-off": 0.926,
       "original confidence": 0.9757,
-      "dataset with max confidence": "All",
+      "dataset with max confidence": "Basidiomycota",
       "original min alignment length": 400
     },
     "Ascomycota": {
